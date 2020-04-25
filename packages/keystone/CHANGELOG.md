@@ -1,5 +1,11 @@
 # @keystonejs/keystone
 
+## 8.1.4
+
+### Patch Changes
+
+- [`8a135a88`](https://github.com/keystonejs/keystone/commit/8a135a88ae6f3a4434db0ba7033cad2e5f18651e) [#2808](https://github.com/keystonejs/keystone/pull/2808) Thanks [@Vultraz](https://github.com/Vultraz)! - Fixed list-level `adminDoc` not doing anything.
+
 ## 8.1.3
 
 ### Patch Changes
